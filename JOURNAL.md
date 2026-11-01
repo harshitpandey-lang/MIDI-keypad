@@ -1,7 +1,7 @@
 ---
 title: "my hackpad"
 author: 'Harshit Pandey"
-description: "this is a hackpad made by myslef to learn more about PCB designing and I am goig to get it printed. This hackpad will have some keys that are very important in these times i.e. github, gmail, linkedin, copy , paste etc"
+description: "this is a NEXA-pad made by myslef to learn more about PCB designing and I am goig to get it printed. This hackpad will have some keys that are very important in these times i.e. github, gmail, linkedin, copy , paste etc"
 created_at: "2026-11-01"
 ---
 
